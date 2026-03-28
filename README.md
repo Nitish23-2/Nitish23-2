@@ -25,4 +25,4 @@ I am a dual degree student pursuing:
 
 ## Contact
 - Email: nitishabhi232@gmail.com
-- LinkedIn: linkedin.com/in/nitish-bhatt-20427b302
+- LinkedIn: https://linkedin.com/in/nitish-bhatt-20427b302 
