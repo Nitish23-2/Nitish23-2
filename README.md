@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Nitish Bhatt
 
-<!--
-**Nitish23-2/Nitish23-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a dual degree student pursuing:
+- B.Tech in Mechanical Engineering (GBPUAT Pantnagar)
+- BS in Data Science and Applications (IIT Madras)
 
-Here are some ideas to get you started:
+## Skills
+- Python, SQL
+- Machine Learning
+- Data Analysis (Pandas, NumPy)
+- Web Development (Flask)
+- Data Visualization (Matplotlib, Seaborn)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Comment Classification (198K dataset, ML + Ensemble)
+- House Price Prediction (Regression, Boosting Models)
+- Customer Segmentation (K-Means, PCA, Business Insights)
+- Vehicle Parking System (Flask, SQL, Automation)
+
+## Interests
+- Machine Learning
+- Data Science
+- Industry 4.0 / Manufacturing Analytics
+- System Design
+
+## Contact
+- Email: nitishabhi232@gmail.com
+- LinkedIn: linkedin.com/in/nitish-bhatt-20427b302
